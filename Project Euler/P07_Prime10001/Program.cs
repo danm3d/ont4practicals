@@ -1,10 +1,5 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Collections.Concurrent;
-using System.Collections.Generic;
-using System.Threading;
 
 namespace P07_Prime10001 {
 
@@ -42,7 +37,7 @@ namespace P07_Prime10001 {
 
 		}
 
-		static bool IsPrime(long num) {
+		private static bool IsPrime(long num) {
 			if (num % 2 == 0) {//even numbers greater than 2 aren't prime (that we know)
 				if (num == 2) {
 					return true;
@@ -57,7 +52,6 @@ namespace P07_Prime10001 {
 			}
 			return true;
 		}
-
 
 	}
 }
