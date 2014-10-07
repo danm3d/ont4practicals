@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherProjectEuler", "Anot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_HighlyDivisibleTriangular", "12_HighlyDivisibleTriangular\P12_HighlyDivisibleTriangular.csproj", "{FC649A80-1DEB-4E83-8EF8-BD889A766815}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_Prime10001", "P07_Prime10001\P07_Prime10001.csproj", "{5F901D06-BAD1-4918-9449-5FE3BE692A8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FC649A80-1DEB-4E83-8EF8-BD889A766815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC649A80-1DEB-4E83-8EF8-BD889A766815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC649A80-1DEB-4E83-8EF8-BD889A766815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F901D06-BAD1-4918-9449-5FE3BE692A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F901D06-BAD1-4918-9449-5FE3BE692A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F901D06-BAD1-4918-9449-5FE3BE692A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F901D06-BAD1-4918-9449-5FE3BE692A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
