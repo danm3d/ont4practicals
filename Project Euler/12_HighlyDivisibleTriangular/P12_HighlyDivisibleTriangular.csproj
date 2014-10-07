@@ -7,7 +7,7 @@
     <ProjectGuid>{FC649A80-1DEB-4E83-8EF8-BD889A766815}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_12_HighlyDivisibleTriangular</RootNamespace>
+    <RootNamespace>P12_HighlyDivisibleTriangular</RootNamespace>
     <AssemblyName>12_HighlyDivisibleTriangular</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
